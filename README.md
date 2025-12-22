@@ -57,6 +57,7 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 
 **MODEL CALCULATION:**
+
 ![IMG-20251221-WA0051 1](https://github.com/user-attachments/assets/1dff3e6c-8493-4688-a518-7720810bc1ca)
 
 **GRAPH:**
