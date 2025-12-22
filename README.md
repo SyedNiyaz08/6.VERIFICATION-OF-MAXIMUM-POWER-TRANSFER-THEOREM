@@ -59,6 +59,11 @@ voltage (VL) in volts	Load Power (PL) in watts
 **MODEL CALCULATION:**
 ![IMG-20251221-WA0051 1](https://github.com/user-attachments/assets/1dff3e6c-8493-4688-a518-7720810bc1ca)
 
+**GRAPH:**
+
+
+![WhatsApp Image 2025-12-22 at 23 00 15_3af46078](https://github.com/user-attachments/assets/e63173b3-45c0-485e-96eb-d3c30fd39257)
+
 **PROCEDURE:**
 
 1.	Make connection as per the circuit diagram.
@@ -68,6 +73,10 @@ voltage (VL) in volts	Load Power (PL) in watts
 3.	Plot a graph between RL and PL and find the RL corresponding to maximum power transfer.
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
+
+**MARK SPLITUP:**
+
+![WhatsApp Image 2025-12-22 at 22 58 35_e9178158](https://github.com/user-attachments/assets/d6d3dd98-fb2f-4ff0-a5f0-13a218fd82da)
 
 **RESULT:**
 
